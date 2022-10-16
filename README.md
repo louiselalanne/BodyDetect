@@ -8,6 +8,8 @@ Goal:<br>
 Face Detection detects the presence of a face in an image. However if you want to identify the face with
 pre-stored images then we would write a code that compares the detected image of a face. This process is known as face recognition.
 
+Haar Cascade is an Object Detection Algorithm used to identify object in an image or a real-time video.
+
 ## Pre Requisites
 ```
 pip install opencv-python
